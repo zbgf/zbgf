@@ -19,3 +19,6 @@
 удалять их и ставить лайки.
 - [Movies Explorer](https://github.com/zbgf/movies-explorer-frontend): сервис, в котором можно найти фильмы по запросу и
 сохранить в личном кабинете.
+
+## Контакты
+[![Telegram](https://img.shields.io/badge/Telegram-orange?logo=telegram&logoColor=white)](https://t.me/zbgf_zbgf) [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:nikita.klimin428@yandex.ru)
